@@ -1,0 +1,43 @@
+p {
+  color: black;
+  font-family: Georgia, "Helvetica", Arial;
+  font-size: 15px;
+  line-height: 18px;
+  width: 500px;
+  background-color: aliceblue;
+  padding: 20px;
+  }
+
+.pozadinaslike {color: black; background-color: rgba(255, 255, 0, 0.2)}
+  body {
+    background-image: url("slike/background7.jpg");
+    }
+
+    a:link  {
+      color: black;
+      background-color: white;
+      padding: 5px;
+      line-height: 40px;
+      border: 1px solid #000000;
+      }
+
+    a:hover {
+      background-color: aliceblue;
+        }
+
+      img {
+        height: 200px;
+        }
+
+      h2 {
+        width: 500px;
+        background-color: aliceblue;
+        padding: 15px;
+        }
+.bold { color: darkgreen; }
+.bold2 { color: palevioletred; }
+.linkovi { color: palevioletred; }
+
+.omeni { color: palevioletred; }
+
+.index {color: black; background-color: rgba(255, 255, 0, 0.2)}
